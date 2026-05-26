@@ -72,11 +72,11 @@
 1. 使用 Haar Cascade 分类器检测人脸区域；
 2. 将人脸图像缩放至 48×48 尺寸，输入模型进行预测；
 3. 输出预测情绪标签，并在原图上绘制人脸框与情绪文字标注。
-<img src="https://github.com/user-attachments/assets/a27c714e-86fd-4931-8a7b-f2d97e2601e2" width="480" alt="image" />
+<img width="480" alt="image" src="https://github.com/user-attachments/assets/a27c714e-86fd-4931-8a7b-f2d97e2601e2" />
 
-<img src="https://github.com/user-attachments/assets/d86f35a5-4cdf-4c4c-b5b5-dc934405e08b" width="480" alt="image" />
+<img width="480" alt="image" src="https://github.com/user-attachments/assets/d86f35a5-4cdf-4c4c-b5b5-dc934405e08b" />
 
-<img src="https://github.com/user-attachments/assets/c55d35a7-74e0-4b02a-e9bb5424c080" width="480" alt="image" />
+<img width="480" alt="image" src="https://github.com/user-attachments/assets/c55d35a7-74e0-4b02a-e9bb5424c080" />
 
 ### b. 视频实时识别演示
 
