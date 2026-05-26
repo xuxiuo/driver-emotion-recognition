@@ -1,0 +1,20 @@
+# 数据集与训练数据（必加，否则仓库会很大）
+datasets/
+utils/Training/
+utils/__pycache__/
+training.log
+
+# 模型文件（可选，如果你不想上传模型）
+*.hdf5
+model/*.hdf5
+
+# 临时文件与IDE配置（PyCharm 生成的文件，没必要上传）
+.idea/
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 其他无关文件
+*.log
+*.tmp
